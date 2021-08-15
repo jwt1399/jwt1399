@@ -9,5 +9,5 @@
 
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=vue&count_private=true)](https://github.com/jwt1399)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=default&count_private=true)](https://github.com/jwt1399)
 
