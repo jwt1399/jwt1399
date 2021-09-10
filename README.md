@@ -1,4 +1,5 @@
 ## About Me
+- 💻In order to be irreplaceable，one must always be different ！
 
 - 🌱Pursuing master’s degree in UESTC
 
