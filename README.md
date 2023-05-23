@@ -3,7 +3,7 @@
 
 - 🌱Pursuing master’s degree in UESTC
 
-- 💡Research  Data security & Web Security
+- 💡Research  Data security & Java Back-End Development
 
 - ⭐️Blog：https://jwt1399.top
 
