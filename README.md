@@ -1,4 +1,5 @@
 <h1 align="center">About Me 🧑🏻‍💻</h1>
+
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/jwt1399">
         <img src="https://img.shields.io/github/stars/jwt1399.svg?logo=star&label=Total%20Stars&color=success" />
@@ -10,6 +11,7 @@
         <img src="https://img.shields.io/badge/Blog-jwt1399.top-orange" />
     </a>
 </p>
+
 
 <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -67,13 +69,11 @@
 </a>
 </div>
     
-    
-[![This is me](https://readme-typing-svg.herokuapp.com?size=30&color=15485F&center=true&vCenter=true&height=80&width=1500&lines=%F0%9F%92%A1%20In%20order%20to%20be%20irreplaceable%EF%BC%8Cone%20must%20always%20be%20different%20%EF%BC%81)](https://git.io/typing-svg)
 
-<h5 align="center">🌱 Pursuing master’s degree in UESTC，🖥️ Research  Data security & Java Development，⭐️ Blog：https://jwt1399.top</h5>
+<h4 align="center" >🌱 Pursuing master’s degree in UESTC，🖥️ Research  Data security & Java Development，⭐️ Blog：https://jwt1399.top</h4>
 
 |  <img src="https://github.com/jwt1399/jwt1399/blob/main/study.gif" width="200"/>    |    ![Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=default&count_private=true)   |   ![UA](https://count.getloli.com/get/@jwt1399?theme=rule34)   |
 | ---- | ---- | ---- |
 
 ![Snake animation](https://github.com/jwt1399/jwt1399/blob/main/github-contribution-grid-snake.svg) 
-
+[![This is me](https://readme-typing-svg.herokuapp.com?size=30&color=15485F&center=true&vCenter=true&height=80&width=1500&lines=%F0%9F%92%A1%20In%20order%20to%20be%20irreplaceable%EF%BC%8Cone%20must%20always%20be%20different%20%EF%BC%81)](https://git.io/typing-svg)
