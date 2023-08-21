@@ -1,4 +1,17 @@
 ## About Me👋
+
+<p align="center">
+    <a title="Github Total Stars" target="_blank" href="https://github.com/jwt1399">
+        <img src="https://img.shields.io/github/stars/jwt1399.svg?logo=star&label=Total%20Stars&color=success" />
+    </a>
+    <a title="Github Followers" target="_blank" href="https://github.com/jwt1399">
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey=jwt1399&color=blue&logo=github&longCache=true" />
+    </a>
+    <a title="My Blog Site" target="_blank" href="https://jwt1399.top/">
+        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-jwt1399.top-orange" />
+    </a>
+</p>
+
 <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
     		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>     
@@ -57,8 +70,6 @@
     
     
 [![This is me](https://readme-typing-svg.herokuapp.com?size=30&color=15485F&center=true&vCenter=true&width=1500&lines=%F0%9F%92%A1%20In%20order%20to%20be%20irreplaceable%EF%BC%8Cone%20must%20always%20be%20different%20%EF%BC%81)](https://git.io/typing-svg)
-
-- 💻In order to be irreplaceable，one must always be different ！
 
 - 🌱Pursuing master’s degree in UESTC
 
