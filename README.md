@@ -70,7 +70,7 @@
     
 [![This is me](https://readme-typing-svg.herokuapp.com?size=30&color=15485F&center=true&vCenter=true&height=80&width=1500&lines=%F0%9F%92%A1%20In%20order%20to%20be%20irreplaceable%EF%BC%8Cone%20must%20always%20be%20different%20%EF%BC%81)](https://git.io/typing-svg)
 
-- 🌱Pursuing master’s degree in UESTC，🖥️Research  Data security & Java Back-End Development，⭐️Blog：https://jwt1399.top
+<h5 align="center">🌱 Pursuing master’s degree in UESTC，🖥️ Research  Data security & Java Development，⭐️ Blog：https://jwt1399.top</h5>
 
 |  <img src="https://github.com/jwt1399/jwt1399/blob/main/study.gif" width="200"/>    |    ![Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=default&count_private=true)   |   ![UA](https://count.getloli.com/get/@jwt1399?theme=rule34)   |
 | ---- | ---- | ---- |
