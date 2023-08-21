@@ -72,7 +72,7 @@
 
 <h4 align="center" >🌱 Pursuing master’s degree in UESTC，🖥️ Research  Data security & Java Development，⭐️ Blog：https://jwt1399.top</h4>
 
-|  <img src="https://github.com/jwt1399/jwt1399/blob/main/study.gif" width="200"/>    |    ![Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=default&count_private=true)   |   ![UA](https://count.getloli.com/get/@jwt1399?theme=rule34)   |
+|  <img src="https://github.com/jwt1399/jwt1399/blob/main/study.gif" width="200" alt="study" />    |    ![Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=default&count_private=true)   |   ![UA](https://count.getloli.com/get/@jwt1399?theme=rule34)   |
 | ---- | ---- | ---- |
 
 ![Snake animation](https://github.com/jwt1399/jwt1399/blob/main/github-contribution-grid-snake.svg) 
