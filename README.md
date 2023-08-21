@@ -54,6 +54,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </a>
 </div>
+    
+    
+[![This is me](https://readme-typing-svg.herokuapp.com?size=30&color=15485F&center=true&vCenter=true&width=1500&lines=%F0%9F%92%A1%20In%20order%20to%20be%20irreplaceable%EF%BC%8Cone%20must%20always%20be%20different%20%EF%BC%81)](https://git.io/typing-svg)
 
 - 💻In order to be irreplaceable，one must always be different ！
 
