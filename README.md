@@ -10,6 +10,8 @@
     <a title="My Blog Site" target="_blank" href="https://jwt1399.top/">
         <img src="https://img.shields.io/badge/Blog-jwt1399.top-orange" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=jwt1399" />
+    <img src="https://profile-counter.glitch.me/jwt1399/count.svg" width="200" height="20"/>
 </p>
 
 
